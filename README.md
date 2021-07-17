@@ -13,7 +13,13 @@
 </pre>
 
 ## 引用方式
+https://jiaoshousir.github.io/staticgithub/
 
+https://jiaoshousir.github.io/staticgithub/src/temp/css/normalize.css
+
+https://jiaoshousir.github.io/staticgithub/src/temp/images/25-37-0.png
+
+https://jiaoshousir.github.io/staticgithub/src/temp/js/jQuery/jquery-1.7.2.js
 
 
 #### 仓库地址
