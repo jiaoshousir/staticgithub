@@ -24,6 +24,8 @@ https://jiaoshousir.github.io/staticgithub/src/temp/images/25-37-0.png
 
 https://jiaoshousir.github.io/staticgithub/src/temp/js/jQuery/jquery-1.7.2.js
 
+## 个人网络书签数据文件
+https://jiaoshousir.github.io/staticgithub/src/public/bookmark/js/bookmarkdata.js
 
 #### 仓库地址
 
