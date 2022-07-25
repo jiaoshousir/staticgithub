@@ -7,6 +7,8 @@
 .
 ├── README.md                  //项目说明文件
 ├── src                        // 项目文件目录
+│   ├──public                  // 项目文件目录
+│   │   └── bookmarkdata       // bookmark项目数据文件
 │   └──temp                    // 临时文件目录
 │       ├── css                // css目录
 │       ├── images             // images目录
