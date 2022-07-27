@@ -637,6 +637,11 @@ var oData = [
         link: "https://vant-contrib.gitee.io/vant-weapp/",
       },
       {
+        name: "View UI",
+        decription: "一套基于 Vue.js 的高质量UI 组件库",
+        link: "https://www.iviewui.com/",
+      },
+      {
         name: "Vue组件",
         decription: "Vue.js 相关的精选组件和实例网站",
         link: "https://vuejsexamples.com",
