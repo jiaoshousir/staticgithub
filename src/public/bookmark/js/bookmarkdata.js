@@ -1004,25 +1004,25 @@ var oData = [
         link: "https://www.eyoucms.com/doc/",
       },
       {
+        name: "易优微信小程序",
+        decription: "易优微信小程序",
+        link: "https://gitee.com/weng_xianhu/eymini",
+      },
+      {
+        name: "易优微信小程序api文档",
+        decription: "易优微信小程序api文档",
+        link: "https://www.showdoc.com.cn/1419231451439365/6949289671916000",
+      },
+      {
         name: "云优CMS - 开源城市分站管理系统",
         decription: "云优CMS是开源城市分站管理系统",
         link: "http://www.yunucms.com/",
-      },
-      {
-        name: "xhadmin后台管理系统",
-        decription: "xhadmin后台管理系统",
-        link: "http://www.xhadmin.com/",
       },
       {
         name: "ucms - 开源内容管理系统",
         decription:
           "UCMS是一款简单的开源内容管理系统，可以非常方便的通过它来快速开发各种企业站、文章站、站群系统。",
         link: "http://uuu.la/",
-      },
-      {
-        name: "869模板网",
-        decription: "869模板网",
-        link: "http://www.86669999.com/",
       },
       {
         name: "模板之家",
@@ -1053,11 +1053,6 @@ var oData = [
         name: "小兽WordPress",
         decription: "为企业而生的wordpress主题",
         link: "http://www.seo628.com/",
-      },
-      {
-        name: "不错吧源码站",
-        decription: "不错吧源码站",
-        link: "http://bbs.bcb5.com/",
       },
     ],
   },
