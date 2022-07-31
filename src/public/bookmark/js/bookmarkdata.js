@@ -632,6 +632,11 @@ var oData = [
         link: "https://vant-contrib.gitee.io/vant/#/zh-CN",
       },
       {
+        name: "TDesign",
+        decription: "支持业界主流的 React/Vue/Angular/微信小程序/Flutter 开发技术栈",
+        link: "https://tdesign.tencent.com/",
+      },
+      {
         name: "Vant Weapp",
         decription: "轻量、可靠的小程序 UI 组件库",
         link: "https://vant-contrib.gitee.io/vant-weapp/",
