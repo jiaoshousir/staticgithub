@@ -994,6 +994,12 @@ var oData = [
         link: "https://www.xunruicms.com/",
       },
       {
+        name: "迅睿CMS - 开发文档",
+        decription:
+          "迅睿CMS - 开发文档",
+        link: "https://help.xunruicms.com/461.html",
+      },
+      {
         name: "易优CMS - 易优企业建站系统",
         decription: "易优cms(eyoucms)是一款专注于企业网站建设的企业建站系统",
         link: "https://www.eyoucms.com/",
