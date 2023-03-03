@@ -921,6 +921,11 @@ var oData = [
         link: "https://github.com/fodelf/esaymarket",
       },
       {
+        name: "VForm 基于 Element UI表单设计及代码生成器",
+        decription: "VForm 基于 Element UI表单设计及代码生成器 https://www.vform666.com/document.html https://zhuanlan.zhihu.com/p/400400344",
+        link: "http://120.92.142.115/",
+      },
+      {
         name: "Element UI表单设计及代码生成器",
         decription: "Element UI表单设计及代码生成器",
         link: "https://github.com/JakHuang/form-generator",
