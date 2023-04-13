@@ -752,6 +752,11 @@ var oData = [
         link: "https://d3js.org/",
       },
       {
+        name: "ECharts 文档",
+        decription: "ECharts 文档（国内同步镜像）",
+        link: "https://www.isqqw.com/",
+      },
+      {
         name: "Unity3D",
         decription:
           "一个让玩家轻松创建诸如三维视频游戏、建筑可视化、实时三维动画等类型互动内容的多平台的综合型游戏开发工具",
